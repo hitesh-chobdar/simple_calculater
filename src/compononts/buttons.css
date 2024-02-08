@@ -1,0 +1,36 @@
+.button{
+    height: 240px;
+    width: 190px;
+    background-color: rgb(167, 118, 85);
+
+    margin: 5px;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+
+
+ 
+}
+.but{
+    margin: auto;
+    height: 35px;
+    width: 35px;
+    background-color: black;
+    border: 2px;
+    border-color: aqua;
+    border-style: outset;
+    cursor: pointer;
+    
+    border-radius: 6px;
+    font-weight: bold;
+ 
+  text-align: center;
+
+  
+    
+}
+.but:active{
+    background-color: rgb(16, 202, 25);
+}
